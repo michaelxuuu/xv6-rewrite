@@ -1,0 +1,2 @@
+#define NCORE 1
+
